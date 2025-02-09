@@ -13,7 +13,7 @@ BATCH DURATION: JANUARY 20th to FEBRUARY 20th, 2024
 MENTOR NAME: NEELA SANTHOSH
 
 #DESCRIPTION
-Task Description
+Task Description:
 This project focuses on advanced data analysis using SQL queries. The objective is to extract meaningful insights by utilizing:
 
 Window Functions for ranking, running totals, and moving averages
